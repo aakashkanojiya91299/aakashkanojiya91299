@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-I'm a passionate **Full-Stack Software Developer** with **3+ years** of experience building robust, scalable applications across the entire technology stack. From crafting intuitive user interfaces to designing efficient backend systems and managing cloud infrastructure, I thrive on solving complex problems and delivering high-quality solutions.
+I'm a passionate **Full-Stack Software Developer** with **4+ years** of experience building robust, scalable applications across the entire technology stack. From crafting intuitive user interfaces to designing efficient backend systems and managing cloud infrastructure, I thrive on solving complex problems and delivering high-quality solutions.
 
 <br>
 
